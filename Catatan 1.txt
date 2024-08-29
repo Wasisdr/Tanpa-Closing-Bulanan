@@ -1,3 +1,5 @@
 Tanpa Closing Bulanan
 Toko
   - Ada penambahan fungsi yang menambahan create file T dan IT di HR
+Edp
+  - Ada penambahan fungsi absen untuk file T dan IT di HR akhir bulanan
