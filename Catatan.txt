@@ -4,4 +4,4 @@ Tanpa Closing Bulanan
 - File Presentasi
 
 Cara Kerja
-- Menjelaskan bagaimana Cara Kerja Closing bulanan
+- Cara kerja aplikasi
