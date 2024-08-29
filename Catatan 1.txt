@@ -1,0 +1,3 @@
+Tanpa Closing Bulanan
+Toko
+  - Ada penambahan fungsi yang menambahan create file T dan IT di HR
